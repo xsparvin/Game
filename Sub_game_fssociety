@@ -11,3 +11,7 @@ vless://094fdaf8-929b-4b8c-81f3-ab61e6c8adff@185.242.247.22:443?security=reality
 vless://687264a2-fca0-41bd-9a61-ff6feccf7fda@85.90.207.47:33727?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 
 vless://01a3f33b-decd-4b66-ae06-df61b553bda7@dash.cloudflare.com.17d001b8b300.toppfast.ir:443?security=none&encryption=none&host=u1host.com&headerType=http&type=tcp#%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%F0%9F%87%A9%F0%9F%87%AA
+
+
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram%20%3A%20%40FarshidHUB%20%D8%B1%D8%A8%D8%A7%D8%AA%20%3A%20%D9%85%D9%86%20%D8%B4%D9%85%D8%A7%20%D8%B1%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D9%86%DA%AF%D9%87%E2%80%8C%20%D9%85%DB%8C%D8%AF%D8%A7%D8%B1%D9%85
