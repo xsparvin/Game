@@ -223,4 +223,6 @@ vless://70142bd7-543d-44f1-b6dd-62bb90ad20ef@91.107.180.206:8443?encryption=none
 vless://3d42bd31-5640-4e5e-a7e5-59e59a040341@deadseectelegram.slimshopboyss.ir:8080?encryption=none&security=none&type=xhttp&host=shop.slimshopboyss.ir&path=%2F%3Fed%3D2048&mode=auto#%40Daily_Configs
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk&insecure=0&allowInsecure=0#%40Daily_Configs
 vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&sid=0ff58d687a4c6c&spx=%2F&type=tcp&headerType=none#%40Daily_Configs
+
+vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&sid=0ff58d687a4c6c&spx=/#Speedy%20Unlimited%20Configuration
 ﻿
