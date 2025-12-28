@@ -1,3 +1,5 @@
 vless://b0fc83ea-0bba-4e76-ad39-de78f793c62a@193.151.139.77:8020?encryption=none&security=none&type=tcp&headerType=none#xsparvin
 
 vless://fc0a632f-6c61-4f22-ae7b-c65d2d74c0b4@45.131.4.255:8443?path=%2Fwsps&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=contact.virtual-server.ir&fp=firefox&type=ws&allowInsecure=0&sni=contact.virtual-server.ir#%E5%8D%90%20Sweden%20-%20Stockholm-toqrsu1r
+
+vless://96605f21-f706-45ae-8eeb-ec71efbca6a2@s9.vless-balancer.ru:4443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sni=github.com&sid=aa7e96542880027a#%E2%9A%A1%20ProxyCloud%20X
